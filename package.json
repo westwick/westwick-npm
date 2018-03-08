@@ -1,0 +1,17 @@
+{
+  "name": "westwick",
+  "version": "0.0.1",
+  "description": "contact info for Andrew Westwick",
+  "main": "index.js",
+  "repository": "westwick/westwick",
+  "scripts": {
+    "postinstall": "cat drewscii.txt && cat contact.json"
+  },
+  "keywords": [
+    "person",
+    "contact",
+    "westwick"
+  ],
+  "author": "Andrew Westwick <awestwick@gmail.com>",
+  "license": "GPL-3.0"
+}
