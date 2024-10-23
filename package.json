@@ -1,9 +1,9 @@
 {
   "name": "westwick",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "contact info for Andrew Westwick",
   "main": "index.js",
-  "repository": "westwick/westwick",
+  "repository": "westwick/westwick-npm",
   "scripts": {
     "postinstall": "cat drewscii.txt && cat contact.json"
   },
